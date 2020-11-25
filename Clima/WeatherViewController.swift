@@ -13,7 +13,7 @@ class WeatherViewController: UIViewController {
     
     //Constants
     let WEATHER_URL = "http://api.openweathermap.org/data/2.5/weather"
-    let APP_ID = "aebbd875bafd46828aae519dae43ca9c"
+    
     
 
     //TODO: Declare instance variables here
